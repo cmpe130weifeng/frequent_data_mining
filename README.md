@@ -8,5 +8,7 @@ Conclusion: Both frequent pattern mining tequnies, sapriori and fpgrowth, are su
 However, the one used FP-Growth's is faster. Beacuse it doesn't need to scan the itemset database over and over again.
 
 
+<br />
+<br />
 refer to slides shared in the class for hints to colabs.
 https://docs.google.com/presentation/d/1d2Xh9NTpzhj0H1rz3LbdnmLMmkE6Yh2-NKMYHLQ-_bM/edit#slide=id.g1026212bcb8_0_180
